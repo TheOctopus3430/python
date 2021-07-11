@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7e6cb1d-88e8-436d-a682-1c5f7348acfb" name="Default Changelist" comment="python学习">
+      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/cls/Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/cls/demo_extend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/file/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/file/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/file/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/function/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/module/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/module/tool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/module/tool/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/net/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/net/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/net/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/django_introduction/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/django_introduction/.idea/django_introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/django_introduction/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/django_introduction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/django_introduction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/django_introduction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/hello/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/hello/.idea/hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/hello/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/hello/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/hello/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/hello/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/hello/app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/hello/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/demo/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/form/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/form/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/form/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/mysql/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/mysql/b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_grammar/collection/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_grammar/collection/list.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/flask/form/form.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/django/hello/app/urls.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/flask/mysql/a.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/advance/function/1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/flask/demo/1.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="python/invalid/Python" />
+    </ignored-facets>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JupyterTrust" id="b05cf79e-402a-4e55-bb96-aefea6b9cdf4" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft\maven\repository" />
+        <option name="mavenHome" value="D:\soft\IDEA\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\soft\maven\apache-maven-3.5.0-Aisino\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uqjf89LpMNJbrroAgMG3Q1wTsi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zhangyu\GitHub\python\advance\module\tool" />
+      <recent name="D:\zhangyu\GitHub\python\advance\module" />
+      <recent name="D:\zhangyu\GitHub\python\basic_grammar\collection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="a (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/mysql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/mysql/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/mysql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\zhangyu\GitHub\python\flask\mysql\a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/mysql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/mysql/b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="form" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/form" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/form/form.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/hello" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/hello/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.b" />
+        <item itemvalue="Python.a (1)" />
+        <item itemvalue="Python.a" />
+        <item itemvalue="Python.form" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7e6cb1d-88e8-436d-a682-1c5f7348acfb" name="Default Changelist" comment="" />
+      <created>1625400113871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625400113871</updated>
+      <workItem from="1625400115144" duration="337000" />
+      <workItem from="1625448201425" duration="66000" />
+      <workItem from="1625469532449" duration="8431000" />
+      <workItem from="1625489782064" duration="788000" />
+      <workItem from="1625540188476" duration="174000" />
+      <workItem from="1625545549632" duration="17103000" />
+      <workItem from="1625618945210" duration="701000" />
+      <workItem from="1625639873486" duration="7401000" />
+      <workItem from="1625908894737" duration="5248000" />
+      <workItem from="1625927130293" duration="642000" />
+      <workItem from="1625967603613" duration="469000" />
+      <workItem from="1625976832303" duration="14000" />
+    </task>
+    <task id="LOCAL-00001" summary="基础语法">
+      <created>1625476643374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625476643374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="python学习">
+      <created>1626005588911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626005588911</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基础语法" />
+    <MESSAGE value="python学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="python学习" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1625976844548">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1625976844548" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
